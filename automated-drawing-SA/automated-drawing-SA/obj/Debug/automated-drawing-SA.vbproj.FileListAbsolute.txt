@@ -1,0 +1,12 @@
+C:\Users\minso\Documents\automated-drawing-SA\automated-drawing-SA\bin\Debug\automated-drawing-SA.exe.config
+C:\Users\minso\Documents\automated-drawing-SA\automated-drawing-SA\bin\Debug\automated-drawing-SA.exe
+C:\Users\minso\Documents\automated-drawing-SA\automated-drawing-SA\bin\Debug\automated-drawing-SA.pdb
+C:\Users\minso\Documents\automated-drawing-SA\automated-drawing-SA\bin\Debug\automated-drawing-SA.xml
+C:\Users\minso\Documents\automated-drawing-SA\automated-drawing-SA\obj\Debug\automated-drawing-SA.vbprojAssemblyReference.cache
+C:\Users\minso\Documents\automated-drawing-SA\automated-drawing-SA\obj\Debug\automated_drawing_SA.Form1.resources
+C:\Users\minso\Documents\automated-drawing-SA\automated-drawing-SA\obj\Debug\automated_drawing_SA.Resources.resources
+C:\Users\minso\Documents\automated-drawing-SA\automated-drawing-SA\obj\Debug\automated-drawing-SA.vbproj.GenerateResource.cache
+C:\Users\minso\Documents\automated-drawing-SA\automated-drawing-SA\obj\Debug\automated-drawing-SA.vbproj.CoreCompileInputs.cache
+C:\Users\minso\Documents\automated-drawing-SA\automated-drawing-SA\obj\Debug\automated-drawing-SA.exe
+C:\Users\minso\Documents\automated-drawing-SA\automated-drawing-SA\obj\Debug\automated-drawing-SA.xml
+C:\Users\minso\Documents\automated-drawing-SA\automated-drawing-SA\obj\Debug\automated-drawing-SA.pdb
